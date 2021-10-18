@@ -13,7 +13,7 @@
 
 int main(int argc, char *argv[])
 {
-    hello("zry......\n");
+    hello("zry......");
     if (argc < 3){
         printf("Usage: %s base exponent \n", argv[0]);
         return 1;
