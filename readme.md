@@ -1,5 +1,7 @@
 # cmake 使用
 
+- 参考 https://www.hahack.com/codes/cmake/
+
 ## 编译
 
 ```bash
